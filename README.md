@@ -50,3 +50,8 @@ Start the Streamlit app:
 
 ```bash
 streamlit run app.py
+```
+
+### Demo!
+https://github.com/user-attachments/assets/d54f17a8-60ef-4f34-ae76-bb3001aba7dc
+
